@@ -1204,8 +1204,8 @@ witchery:cauldronbook.rituals10=[next=rituals11][h1 仪式:震地仪式]炼药�
 witchery:cauldronbook.rituals11=[h1 仪式:扩张版失明之咒]离受害者越远, 需要聚会女巫越多.[br][br][template=tritual stack|0=nether_wart,witchery:ingredient|37,redstone,dye|0,witchery:taglockkit|1]
 
 witchery:cauldronbook.otherrituals=[h1 其他仪式]不需要祭坛的新仪式:[br][br]> [url=ritualwaystone 绑定寻路石][br]> [url=ritualwaystoneblooded 血腥寻路石][br]> [url=ritualtranspose 传送][br]> [url=ritualfind 寻找结构]
-witchery:cauldronbook.ritualwaystone=[h1 仪式:绑定寻路石]为了绑定寻路石(最多八块), 画一个3x3白色粉笔 圆环:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]将寻路石扔在中央, 后退并等待.
-witchery:cauldronbook.ritualwaystoneblooded=[h1 仪式:绑定血腥寻路石]为了将寻路石绑定在生物上, 在祭坛附近画一个3x3白色粉笔 圆环:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]当生物靠近时,将寻路石扔在中央 并等待.
+witchery:cauldronbook.ritualwaystone=[h1 仪式:绑定寻路石]为了绑定寻路石(最多八块), 画一个3x3紫色粉笔 圆环:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]将寻路石扔在中央, 后退并等待.
+witchery:cauldronbook.ritualwaystoneblooded=[h1 仪式:绑定血腥寻路石]为了将寻路石绑定在生物上, 在祭坛附近画一个3x3紫色粉笔 圆环:[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]当生物靠近时,将寻路石扔在中央 并等待.
 witchery:cauldronbook.ritualtranspose=[h1 仪式:传送]为了传送到寻路石绑定点, 画一个5x5紫色粉笔圆环:[br][img=witchery:textures/gui/circles_spurple.png|center|top|32|32][br]站在圆环中, 把寻路石仍在圆环内,并等待.
 witchery:cauldronbook.ritualfind=[h1 仪式:寻找结构]召唤一个灵魂飞向最近的村庄 (或下界要塞). 画一个3x3白色粉笔圆环:[br][img=witchery:textures/gui/circles_tinywhite.png|center|top|32|32][br]将一个抑制之精神或调谐之石 丢在中央并等待.
 
