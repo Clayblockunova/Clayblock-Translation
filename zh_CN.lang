@@ -1662,7 +1662,7 @@ witchery.rite.summonreflection=召唤仪式{r||把镜子里的恶魔叫出来. �
 witchery.rite.eclipse.cooldown=最近已经实施过日食仪式了, 等一会.
 witchery.rite.mirrormirror.playersseen=除此之外, 除了你, 还有他们站这里: %s
 witchery.rite.mirrormirror.playersnotseen=除此之外, 除了你, 没有外人站这里.
-witchery.rite.mirrormirror.escapecooldown=吟唱失败, 冷却时间生效 (%s seconds remain)
+witchery.rite.mirrormirror.escapecooldown=吟唱失败, 冷却时间生效 (还剩 %s 秒)
 
 witchery.rite.mirrormirrorsendmehome=魔镜魔镜带我回家
 witchery.rite.mirrormirrorigiveup=魔镜魔镜我不行了
