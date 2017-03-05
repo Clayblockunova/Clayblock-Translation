@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @claybiockiller
- Watch 114
-  Star 440
-  Fork 226 Vazkii/Botania
- Code  Issues 50  Pull requests 2  Projects 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathBotania/src/main/resources/assets/botania/lang/zh_CN.lang
-5753758  on 20 Oct
-@3TUSK 3TUSK Update zh_CN.lang
-8 contributors @williewillus @Mrkwtkr @WindyGod @3TUSK @sfmiyuki @TunkShif @Cazzar @sb023612
-RawBlameHistory     
-3856 lines (3567 sloc)  275 KB
 # Note to translators: DO NOT COPY ENTRIES FROM ENGLISH
 # I repeat: do NOT copy entries from English!!
 # Any entry in this lang file should be in zh_CN, or *should not be here at all*
@@ -432,12 +415,12 @@ botania.versioning.flavour55=感谢您报名参加更新活动，植物魔法已
 botania.versioning.flavour56=快更新植魔, 你个蟑螂男, 支持一下金字塔 =)
 botania.versioning.flavour57=gr8 b8 m8 here's an upd8
 botania.versioning.flavour58=更新的力量驱使着你！
-botania.versioning.flavour59=尼可罗管·布莱芒德提供了此次更新
+botania.versioning.flavour59=尼可罗管•布莱芒德提供了此次更新
 botania.versioning.flavour60=植物魔法更新了，他们一定会做他们力所能及的纠正
 botania.versioning.flavour61=快更新我!快更新我！不要再让我说第三遍!
 botania.versioning.flavour62=90%的医生会推荐你更新植物魔法.
 botania.versioning.flavour63=本次更新承诺在午夜。
-botania.versioning.flavour64=本次的植魔更新已经过时. 而他的名字是约翰·塞纳! DOO DOO DOO DOO
+botania.versioning.flavour64=本次的植魔更新已经过时. 而他的名字是约翰•塞纳! DOO DOO DOO DOO
 botania.versioning.outdated=你所使用的植物魔法版本为%s，而最新版本为%s。
 botania.versioning.updateMessage=["点击这里... [",{"text":"下载","color":"green","hoverEvent":{"action":"show_text","value":{"text":"点此自动下载最新版本","color":"green"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/botania-unofficial/files/latest"}},"] [",{"text":"网站","color":"green","hoverEvent":{"action":"show_text","value":{"text":"点此浏览该mod的网站","color":"green"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/botania-unofficial"}},"] [",{"text":"更新日志","color":"green","hoverEvent":{"action":"show_text","value":{"text":"点此查看该版本的更新日志","color":"green"}},"clickEvent":{"action":"open_url","value":"https://github.com/williewillus/Botania/releases/tag/%s"}},"]"]
 botania.versioning.startingDownload=[{"text":"开始下载%s.请勿移除你的硬盘.祝你玩得开心 ","color":"aqua"},{"text":"植物魔法","color":"green"},{"text":"?是否考虑赞助","color":"aqua"},{"text":"Vazkii","color":"light_purple"},{"text":" on [","color":"aqua"},{"text":"赞助","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"点此进入Vazkii的赞助界面","color":"light_purple"}},"clickEvent":{"action":"open_url","value":"http://www.patreon.com/Vazkii"}},{"text":"]!","color":"aqua"}]
@@ -488,7 +471,7 @@ achievement.botania:flowerPickup=Sky of Beginning
 achievement.botania:flowerPickup.desc=拾取一朵神秘花
 achievement.botania:lexiconUse=現実的論理主義者
 achievement.botania:lexiconUse.desc=打开一本植物魔法辞典并浏览目录
-achievement.botania:daybloomPickup=Electric Magic
+achievement.botania:daybloomPickup=Electric・Magic
 achievement.botania:daybloomPickup.desc=在花药台制作一朵产能花
 achievement.botania:manaPoolPickup=Vivid Wave
 achievement.botania:manaPoolPickup.desc=将稀释魔力池升级为普通的魔力池
@@ -508,7 +491,7 @@ achievement.botania:manaBlasterShoot=M‘AIDER遭難ガール
 achievement.botania:manaBlasterShoot.desc=合成魔力脉冲枪再发射脉冲
 achievement.botania:tiaraWings=Heart Shooter
 achievement.botania:tiaraWings.desc=制作天翼族之冠并用翅膀装饰它
-achievement.botania:terrasteelPickup=Dancer in the Dark
+achievement.botania:terrasteelPickup=ダンサーインザダーク
 achievement.botania:terrasteelPickup.desc=用泰拉凝聚板制作一块泰拉锭
 achievement.botania:elfPortalOpen=World Calling
 achievement.botania:elfPortalOpen.desc=打开通往精灵王国的传送门
@@ -518,7 +501,7 @@ achievement.botania:terrasteelWeaponCraft=絶境パラノイア
 achievement.botania:terrasteelWeaponCraft.desc=用泰拉锭制作的武器武装你自己
 achievement.botania:kekimurusPickup=放課後ストライド
 achievement.botania:kekimurusPickup.desc=制作一朵贪食花来提供大量魔力
-achievement.botania:heiseiDreamPickup=ヘイセイカタクリズム 
+achievement.botania:heiseiDreamPickup=平成灾变
 achievement.botania:heiseiDreamPickup.desc=制作一朵平成之梦让怪物们窝里斗
 achievement.botania:dirtRodCraft=Rockbell
 achievement.botania:dirtRodCraft.desc=制作一根泥棍子...哦不,是大地法杖
@@ -538,7 +521,7 @@ achievement.botania:manaweaveArmorCraft=想像フォレスト
 achievement.botania:manaweaveArmorCraft.desc=制作一套魔力布匹制作的装甲来提高你的魔力效率
 achievement.botania:enchanterMake=Odds and Ends
 achievement.botania:enchanterMake.desc=制作一个魔力附魔台来更好的控制附魔
-achievement.botania:pollidisiacPickup=Romeo and Cinderella
+achievement.botania:pollidisiacPickup=ロミオとシンデレラ
 achievement.botania:pollidisiacPickup.desc=做一个畜牧花，在空气中制造爱情立场
 achievement.botania:brewPickup=オサナナブルー
 achievement.botania:brewPickup.desc=制作一个植物酿造台并用他酿造所有种类的药水
@@ -557,7 +540,7 @@ achievement.botania:signalFlareStun=SEE THE LIGHTS
 achievement.botania:signalFlareStun.desc=用一发信号弹让至少100只怪物眩晕
 achievement.botania:l20ShardUse=ずれていく
 achievement.botania:l20ShardUse.desc=用能量为XX的拉普达碎片将地面升至天空
-achievement.botania:gaiaGuardianNoArmor=Mythologia's End
+achievement.botania:gaiaGuardianNoArmor=終末のミュートロギア
 achievement.botania:gaiaGuardianNoArmor.desc=战斗从头至尾不穿任何护甲击杀一只盖亚守护者
 achievement.botania:rankSSPick=六兆年零一夜物语
 achievement.botania:rankSSPick.desc=用SS级的泰拉粉碎者挖穿世界
@@ -572,7 +555,7 @@ achievement.botania:kingKey=マネマネサイコトロピック
 achievement.botania:kingKey.desc=获得战利品:王之宝钥
 achievement.botania:flugelEye=ヤクビョウガミ
 achievement.botania:flugelEye.desc=获得战利品:天翼族之眼
-achievement.botania:thorRing=One Step Layered
+achievement.botania:thorRing=ワンステップ・レイヤード
 achievement.botania:thorRing.desc=获得战利品:托尔之戒
 achievement.botania:odinRing=回忆补时
 achievement.botania:odinRing.desc=获得战利品:奥丁之戒
@@ -581,7 +564,7 @@ achievement.botania:lokiRing.desc=获得战利品:洛基之戒
 achievement.botania:aesirRing=神のまにまに
 achievement.botania:aesirRing.desc=通过合成做出诸神之戒
 
-achievement.botania:nullFlower=Take it Easy
+achievement.botania:nullFlower=take it easy
 achievement.botania:nullFlower.desc=发现一个bug导致你有了一朵未定义的植物魔法花.别忘了提交!
 achievement.botania:desuGun=裏表ラバーズ
 achievement.botania:desuGun.desc=ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN
@@ -1191,25 +1174,25 @@ tile.botania:flower.endoflame.name=火红莲
 tile.botania:flower.endoflame.reference=吸热反应
 tile.botania:flower.hydroangeas.name=水绣球
 tile.botania:flower.hydroangeas.reference=友好的甲壳类动物
-tile.botania:flower.thermalily.name=炽玫瑰
+tile.botania:flower.thermalily.name=炽百合
 tile.botania:flower.thermalily.reference=不适合血法
 tile.botania:flower.arcanerose.name=阿卡纳蔷薇
 tile.botania:flower.arcanerose.reference=角落里的经验球
 tile.botania:flower.munchdew.name=咀叶花
 tile.botania:flower.munchdew.reference=这也算自相残杀？
-tile.botania:flower.entropinnyum.name=热爆花
+tile.botania:flower.entropinnyum.name=熵翠雀
 tile.botania:flower.entropinnyum.reference=你可以选择成为魔法少女
 tile.botania:flower.kekimurus.name=贪食花
 tile.botania:flower.kekimurus.reference=这朵花是个谎言
-tile.botania:flower.gourmaryllis.name=彼方兰
+tile.botania:flower.gourmaryllis.name=彼方孤挺花
 tile.botania:flower.gourmaryllis.reference=不愉快です
 tile.botania:flower.narslimmus.name=粘球草
 tile.botania:flower.narslimmus.reference=这是什么? 粘粘的 
-tile.botania:flower.spectrolus.name=斑斓花
+tile.botania:flower.spectrolus.name=斑斓菖蒲
 tile.botania:flower.spectrolus.reference=挑剔的家伙
 tile.botania:flower.dandelifeon.name=启命英
 tile.botania:flower.dandelifeon.reference=这就是生活
-tile.botania:flower.rafflowsia.name=噬草花
+tile.botania:flower.rafflowsia.name=食花大王
 tile.botania:flower.rafflowsia.reference=陷阱噩梦
 
 # - FUNCTIONAL
@@ -1237,27 +1220,27 @@ tile.botania:flower.agricarnation.name=田园康乃馨
 tile.botania:flower.agricarnation.reference=又到了四月二十五日
 tile.botania:flower.agricarnationChibi.name=小田园康乃馨
 tile.botania:flower.agricarnationChibi.reference=又到了四月二十五日
-tile.botania:flower.hopperhock.name=漏斗花
+tile.botania:flower.hopperhock.name=漏斗葵
 tile.botania:flower.hopperhock.reference=它完全就是个漏斗
-tile.botania:flower.hopperhockChibi.name=小漏斗花
+tile.botania:flower.hopperhockChibi.name=小漏斗葵
 tile.botania:flower.hopperhockChibi.reference=它完全就是个漏斗
 tile.botania:flower.tangleberrie.name=束缚莓
 tile.botania:flower.tangleberrie.reference=禁止使用煎锅
 tile.botania:flower.jiyuulia.name=自由之翼
 tile.botania:flower.jiyuulia.reference=自由之翼
-tile.botania:flower.rannuncarpus.name=手掌花
+tile.botania:flower.rannuncarpus.name=掌毛茛
 tile.botania:flower.rannuncarpus.reference=十分便利
-tile.botania:flower.rannuncarpusChibi.name=小手掌花
+tile.botania:flower.rannuncarpusChibi.name=小掌毛茛
 tile.botania:flower.rannuncarpusChibi.reference=十分便利
 tile.botania:flower.hyacidus.name=毒风信
 tile.botania:flower.hyacidus.reference=你不跑的话,就不会受伤
-tile.botania:flower.pollidisiac.name=畜牧花
+tile.botania:flower.pollidisiac.name=牧丁香
 tile.botania:flower.pollidisiac.reference=鸟与蜜蜂
-tile.botania:flower.clayconia.name=粘土花
+tile.botania:flower.clayconia.name=土石蕊
 tile.botania:flower.clayconia.reference=不包括卢比
-tile.botania:flower.clayconiaChibi.name=小粘土花
+tile.botania:flower.clayconiaChibi.name=小土石蕊
 tile.botania:flower.clayconiaChibi.reference=不包括卢比
-tile.botania:flower.loonium.name=聚宝花
+tile.botania:flower.loonium.name=聚宝石斛
 tile.botania:flower.loonium.reference=好好珍惜它
 tile.botania:flower.daffomill.name=扇水仙
 tile.botania:flower.daffomill.reference=厨师的好帮手
@@ -1265,11 +1248,11 @@ tile.botania:flower.vinculotus.name=诱引莲
 tile.botania:flower.vinculotus.reference=完全就是抄袭更多实用设备
 tile.botania:flower.spectranthemum.name=凌空蓟
 tile.botania:flower.spectranthemum.reference=装弹发射
-tile.botania:flower.medumone.name=石化草
+tile.botania:flower.medumone.name=石莲花
 tile.botania:flower.medumone.reference=自始至终潜伏于此
-tile.botania:flower.marimorphosis.name=异构花
+tile.botania:flower.marimorphosis.name=变盏花
 tile.botania:flower.marimorphosis.reference=像岩石般坚硬
-tile.botania:flower.marimorphosisChibi.name=小异构花
+tile.botania:flower.marimorphosisChibi.name=小变盏花
 tile.botania:flower.marimorphosisChibi.reference=像岩石般坚硬
 tile.botania:flower.bubbell.name=气泡铃
 tile.botania:flower.bubbell.reference=吐出泡泡
@@ -3556,16 +3539,16 @@ botania.page.aIntro6=开启门所需的&4魔力&0量远多于 维持所需的,�
 botania.page.aIntro7=这本书里关于&1艾尔夫海姆&0的 情报也只有这么多了,或许你 &4让精灵看看这本书&0能获得更 多情报.
 
 # -- A MESSAGE FROM ELVEN GARDE
-botania.entry.elfMessage=来自爱尔文·加尔得的消息
+botania.entry.elfMessage=来自爱尔文•加尔得的消息
 botania.tagline.elfMessage=肯定的回复. Yup
 botania.page.elfMessage0=
 # ^ This is blank on purpose
 botania.page.elfMessage1=&o致以问候.我们注意到我们的 传送门被其他世界的连接打 开了.说起来的确有些震惊. 感谢你向我们提供你所在世 界的知识库,让我们能了解到 在离开那里之后的事,真的过 去很久了呢,我们也很高兴能 看到那里的一切安好.
-botania.page.elfMessage2=&o经过与爱尔文·加尔德高级议 会的讨论,我们决定与您合作 .你看,你的"植物魔法辞典" 让我们知道了诸多很难入手 的你所在世界的资源,因为这 些资源根本不存在于我们的 土地.
+botania.page.elfMessage2=&o经过与爱尔文•加尔德高级议 会的讨论,我们决定与您合作 .你看,你的"植物魔法辞典" 让我们知道了诸多很难入手 的你所在世界的资源,因为这 些资源根本不存在于我们的 土地.
 botania.page.elfMessage3=&o你所建立的连接十分脆弱,生 物无法穿过,你现在应该已经 知道了.然而,这也有积极的 一面,我们两个世界之间的时 间连接是不同步的,那就是为 何你这么快就拿回了书.
 botania.page.elfMessage4=&o谈到魔力和其他魔法能量,我 们有充足的量,所以不用担心 传送门在我们这一侧关闭.让 我们展望未来,为了我们两个 文明的发展,我们约定交换彼 此缺乏的资源.
 botania.page.elfMessage5=&o我们让最好的文士写下了我 们世界的一些知识以分享,你 可以像查看你的知识一样在 你的辞典里找到它们.我们希 望这能启发你并鼓励你与我 们持续交易下去.
-botania.page.elfMessage6=&o最后,注意如果你送来我们没 有约好交易的东西,我们会将 它当作送给我们的礼物,提醒 一下.不过我们还是更希望与 你交换资源.<br>诚挚的问候 爱尔文·加尔得高级议会.
+botania.page.elfMessage6=&o最后,注意如果你送来我们没 有约好交易的东西,我们会将 它当作送给我们的礼物,提醒 一下.不过我们还是更希望与 你交换资源.<br>诚挚的问候 爱尔文•加尔得高级议会.
 
 # -- THE RESOURCES OF ALFHEIM
 botania.entry.elfResources=精灵的交易
@@ -3870,5 +3853,3 @@ botania.subtitle.terrasteelCraft=泰拉钢制作完成
 botania.subtitle.thermalily=炽玫瑰消耗熔岩
 botania.subtitle.unholyCloak=罪恶斗篷 激活
 # No translation # botania.subtitle.way=
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
