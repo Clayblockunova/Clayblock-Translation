@@ -11,18 +11,24 @@ tile.cuttingboard.name=切肉板
 tile.pot.name=罐
 
 tile.beehive.name=蜂窝
-tile.apiary.name=蜂房
+tile.apiary.name=蜂箱
 tile.presser.name=压榨机
 
-sink_0.name=水桶
-sink_1.name=石质水池
-sink_2.name=粘土水池
-sink_3.name=砖井
+tile.honey.name=蜂蜜块
+tile.honeycomb.name=巢蜜块
+tile.pressedwax.name=压缩蜡块
+tile.waxcomb.name=巢蜡块
+
+tile.groundtrap.name=陷阱
+tile.watertrap.name=渔栅
+
+tile.well.name=水井
 
 tile.salt.name=盐矿
 tile.pamcompressedsaltBlock.name=压缩盐块
 
 tile.market.name=集市交易方块
+tile.shippingbin.name=运货箱
 
 tile.oven.name=烤炉
 
@@ -1109,3 +1115,29 @@ item.applefritterItem.name=炸苹果饼
 item.sweetteaItem.name=甜茶
 item.creepercookieItem.name=苦力怕饼干
 item.patreonpieItem.name=Patreon派
+
+item.honeybreadItem.name=蜂蜜面包
+item.honeybunItem.name=蜂蜜小面包
+item.honeyglazedcarrotsItem.name=蜜汁萝卜
+item.honeyglazedhamItem.name=蜜汁火腿
+item.honeysoyribsItem.name=蜜汁素排
+
+item.rawtofeakItem.name=生素牛排
+item.rawtofaconItem.name=生素培根
+item.rawtofishItem.name=生素鱼
+item.rawtofeegItem.name=生素蛋
+item.rawtofuttonItem.name=生素羊肉
+item.rawtofickenItem.name=生素鸡
+item.rawtofabbitItem.name=生素兔肉
+item.rawtofurkeyItem.name=生素火鸡
+item.rawtofenisonItem.name=生素鹿肉
+
+item.cookedtofeakItem.name=熟素牛排
+item.cookedtofaconItem.name=熟素培根
+item.cookedtofishItem.name=熟素鱼
+item.cookedtofeegItem.name=熟素蛋
+item.cookedtofuttonItem.name=熟素羊肉
+item.cookedtofickenItem.name=熟素鸡
+item.cookedtofabbitItem.name=熟素兔肉
+item.cookedtofurkeyItem.name=熟素火鸡
+item.cookedtofenisonItem.name=熟素鹿肉
