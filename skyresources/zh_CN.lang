@@ -36,7 +36,7 @@ item.skyresources.ironGrinder.name=铁碎石器
 item.skyresources.diamondGrinder.name=钻石碎石器
 item.skyresources.heavySnowball.name=重质雪球
 item.skyresources.heavyExplosiveSnowball.name=爆炸性重质雪球
-item.skyresources.survivalistFishingRod.name=生存着的钓鱼竿
+item.skyresources.survivalistFishingRod.name=生存者的钓鱼竿
 
 tile.skyresources.cactusFruitNeedle.name=插针的仙人掌果
 tile.skyresources.compressedCoalBlock.name=硬化煤块
@@ -107,7 +107,7 @@ container.skyresources.combustionCollector=Combustion Collector
 container.skyresources.quickDropper=Quick Dropper
 container.skyresources.aqueousConcentrator=Aqueous Concentrator
 container.skyresources.fusionTable=Alchemical Fusion Table
-container.skyresources.crucibleInserter=Crucible Inserter
+container.skyresources.crucibleInserter=坩埚加料机
 
 tile.skyresources.casing.wood.name=Wooden Casing
 tile.skyresources.casing.stone.name=Stone Casing
