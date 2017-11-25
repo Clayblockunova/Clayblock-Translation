@@ -474,6 +474,3 @@ guide.skyresources.misc.extrabees.text=Sky Resources 提供了获得 Extra Bees 
 
 guide.skyresources.misc.rockcandy.title=Rock Candy 相关兼容
 guide.skyresources.misc.rockcandy.text=Sky Resources 提供了获得 Rock Candy 的基础物品的方法。 \n \n <recipe,,rockcandy:raw_rock_candy:0> 可以通过其他方式获得。rgistics2:material:1> , <recipe,,appliedenergistics2:sky_stone_block:0> are obtainable as well as the 4 inscriber presses.
-
-guide.skyresources.misc.dracevo.title=Draconic Evolution Support
-guide.skyresources.misc.dracevo.text=Sky Resources provides for ways to get basic Draconic Evolution items. \n \n <recipe,,draconicevolution:draconium_ingot:0> is obtainable.
